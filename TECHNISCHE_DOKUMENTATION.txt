@@ -364,28 +364,6 @@ NEXT_PUBLIC_APP_URL=https://all-ki.vercel.app
 - **Largest Contentful Paint**: <2.5s
 - **Time to Interactive**: <3.0s
 
-## 🎯 Zukünftige Erweiterungen
-
-### Phase 1 (Kurzfristig)
-- Real-time Chat mit WebSockets
-- Drag & Drop Widget-Anordnung
-- Erweiterte Analytics
-- Push-Benachrichtigungen
-
-### Phase 2 (Mittelfristig)
-- Mobile App (React Native)
-- Offline-Funktionalität
-- Advanced AI-Features
-- Team-Collaboration
-
-### Phase 3 (Langfristig)
-- Plugin-System
-- API für Drittanbieter
-- Enterprise-Features
-- Multi-Language Support
-
-## 🏆 Universitätsprojekt-Konformität
-
 ### Technische Exzellenz
 ✅ Moderne Technologien (Next.js 14, TypeScript)
 ✅ Clean Code Principles
@@ -409,14 +387,11 @@ NEXT_PUBLIC_APP_URL=https://all-ki.vercel.app
 
 ---
 
-**Status**: Vollständig funktionsfähiges System mit MongoDB-Backend
-**Zielgruppe**: Universitätsprofessoren und Studierende
 **Zweck**: Demonstration moderner Webentwicklung und KI-Integration
-**Bewertungsziel**: Note 1,0 durch technische Exzellenz und Innovation
 
 ---
 
-Entwickelt von: [Ihr Name]
-Datum: 2024-2025
-Universität: [Ihre Universität]
-Kurs: [Ihr Kurs]
+Entwickelt von: Arne Thiele udn Ravel-Lukas Geck
+Datum: 02.07.2025
+Universität: FHDW Paderborn
+Kurs: Advanced Technologies in Computer Science
