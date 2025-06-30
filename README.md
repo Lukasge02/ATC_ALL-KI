@@ -179,8 +179,8 @@ npm run lint:fix     # ESLint Auto-Fix
 Dieses Projekt wurde als Universitätsprojekt entwickelt.
 
 ## 👨‍💻 Entwickler
-
-Entwickelt mit ❤️ für moderne Webentwicklung und KI-Innovation.
+Arne Thiele
+Ravel-Lukas Gecl
 
 ---
 
